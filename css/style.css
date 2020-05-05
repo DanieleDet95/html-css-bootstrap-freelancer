@@ -1,0 +1,148 @@
+/* IMPOSTAZIONI GENERALI */
+.my-primary{
+  background-color: #1abc9c;
+  color: white;
+}
+.my-titolo-section{
+  font-size: 33px;
+  font-weight: bold;
+}
+/* STELLA DIVISORE */
+.my-divisor{
+  margin: 15px 0;
+}
+.fa-star{
+  font-size: 30px;
+  margin: 20px;
+}
+.my-divisor hr{
+  display: inline-block;
+  width: 100px;
+  font-size: 66px;
+  border: 1.7px solid black;
+  border-radius: 10px;
+  position: relative;
+  top: 10px;
+}
+hr.white{
+    border: 1.7px solid white;
+}
+/* FINE IMPOSTAZIONI GENERALI */
+
+/* ----------------------- IMPOSTAZIONI HEADER ------------------------------ */
+.my-navbar{
+  background-color: #2c3e50;
+  color: white;
+  height: 80px;
+}
+.navbar-logo{
+  font-size: 25px;
+  line-height: 80px;
+}
+.header-menu{
+  line-height: 80px;
+}
+.header-menu li{
+  display: inline-block;
+  margin-left: 20px;
+}
+.header-menu a{
+  color: white;
+}
+.my-nav-button{
+  float: right;
+  margin-top: 23px;
+  background-color: #2c3e50;
+  color: gray;
+}
+
+/* ------------------------ IMPOSTAZIONE MAIN --------------------------------*/
+
+/* IMPOSTAZIONI START */
+.my-start{
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
+.my-start h2{
+  font-size: 50px;
+}
+.sottotitolo{
+  font-size: 22px;
+}
+.my-avatar{
+  width: 200px;
+  margin: 20px auto;
+}
+
+/* IMPOSTAZIONI PORTFOLIO */
+.my-progetto{
+  margin-top: 20px;
+}
+.my-progetto img{
+  width: 100%;
+  border-radius: 10px;
+}
+
+/* IMPOSTAZIONI ABOUT */
+.my-about{
+  margin-top: 50px;
+  padding: 30px 0;
+}
+.my-wrapper-about{
+  max-width: 992px;
+  width: 70%;
+  margin: 0 auto;
+  font-size: 18px;
+}
+.my-wrapper-about p{
+  margin-bottom: 30px;
+}
+.my-main-button{
+  background: #1abc9c;
+  color: white;
+  border-color: white;
+}
+.glyphicon-save{
+  margin-right: 5px;
+}
+
+/* IMPOSTAZIONI CONTACT ME */
+.my-contact{
+  max-width: 992px;
+  margin: 0 auto;
+}
+.form-group label,
+.form-group button,
+.form-group input{
+  margin: 10px 0;
+}
+
+/* ------------------------ IMPOSTAZIONE FOOTER ------------------------------*/
+.my-footer{
+  background: #3a546d;
+  color: white;
+}
+.my-footer a{
+  color: #1abc9c;
+}
+.my-footer h4{
+  margin-top: 40px;
+}
+.my-circle-social{
+  display: inline-block;
+  border: 1px solid white;
+  border-radius: 50%;
+  width: 40px;
+  margin: 0 5px;
+}
+.my-circle-social i{
+  font-size: 16px;
+  padding: 11px;
+  color: white;
+}
+.my-footer-credits{
+  background: #2c3e50;
+  height: 80px;
+  line-height: 70px;
+  margin-top: 30px;
+}
